@@ -1,0 +1,2 @@
+- name: create nginx gruop
+  group: name=nginx gid=80

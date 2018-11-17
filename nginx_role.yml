@@ -1,0 +1,5 @@
+- hosts: testhost
+  remote_user: root
+
+  roles:
+    - role: nginx
